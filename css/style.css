@@ -1,0 +1,49 @@
+
+h1 {
+	color: green;
+}
+
+.publishing-house {
+	color: darkmagenta;
+}
+
+#header-text {
+	color: orangered;
+}
+
+div.book1 {
+	color: blue;
+}
+
+.description.first-book {
+	color: darkred;
+}
+
+.book2,
+.book3 {
+	color: deeppink;
+}
+
+.book2 p {
+	color: indigo;
+}
+
+.book3 .description {
+	color: olive;
+}
+
+.book4 * {
+	color:midnightblue;
+}
+
+.book5 > p {
+	color: brown;
+}
+
+.author6 ~ p {
+	color: red;
+}
+
+.publishing-house7 + p {
+	color: darkgoldenrod;
+}
